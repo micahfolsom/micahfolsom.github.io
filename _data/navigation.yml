@@ -3,5 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
     
+  - title: "Media"
+    url: /media/
+    
   - title: "CV"
     url: /cv/
