@@ -7,8 +7,7 @@ redirect_from:
   - /resume
 ---
 ### Engineer, programmer, and physicist with over a decade of research experience developing advanced radiation sensors that take advantage of cutting-edge techniques and algorithms. Adaptive, quick to learn, and eager to employ the latest and most advanced technologies to solve challenging problems. Strong communicator who excels in team environments pursuing creative solutions.
-##### [micahfolsom.com](micahfolsom.com)
-##### [LinkedIn](https://www.linkedin.com/in/micah-folsom-08708b90/)
+##### [[micahfolsom.com](micahfolsom.com)] . [[LinkedIn](https://www.linkedin.com/in/micah-folsom-08708b90/)]
 
 Experience
 ---------
