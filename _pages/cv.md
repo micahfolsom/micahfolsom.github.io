@@ -1,15 +1,14 @@
 ---
 layout: archive
-title: "CV"
+title: "Micah Folsom"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-Micah Folsom
-======
-#### Engineer, programmer, and physicist with over a decade of research experience developing advanced radiation sensors that take advantage of cutting-edge techniques and algorithms. Adaptive, quick to learn, and eager to employ the latest and most advanced technologies to solve challenging problems. Strong communicator who excels in team environments pursuing creative solutions.
-###### [[micahfolsom.com](micahfolsom.com)].[LinkedIn](https://www.linkedin.com/in/micah-folsom-08708b90/)
+### Engineer, programmer, and physicist with over a decade of research experience developing advanced radiation sensors that take advantage of cutting-edge techniques and algorithms. Adaptive, quick to learn, and eager to employ the latest and most advanced technologies to solve challenging problems. Strong communicator who excels in team environments pursuing creative solutions.
+##### [micahfolsom.com](micahfolsom.com)
+##### [LinkedIn](https://www.linkedin.com/in/micah-folsom-08708b90/)
 
 Experience
 ---------
@@ -70,12 +69,12 @@ Education
 
 Skills
 ------
-**Programming:** C, C++, Visual Basic, Python
-**Tools**: Word, Excel, Linux, Git, doxygen, MATLAB, Qt
+**Programming:** C, C++, Visual Basic, Python<br>
+**Tools**: Word, Excel, Linux, Git, doxygen, MATLAB, Qt<br>
 **Communication & Teamwork:** Technical writing, public speaking,
-international collaboration, small team management
+international collaboration, small team management<br>
 **Advanced Skills:** Digital signal processing, sensors & instrumentation,
-statistical modeling, experimental research and design, data analysis
+statistical modeling, experimental research and design, data analysis<br>
 
 Awards
 ------
