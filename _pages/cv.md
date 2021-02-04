@@ -11,10 +11,17 @@ redirect_from:
 
 Experience
 ---------
-**Postdoctoral Researcher, University of Tennessee, Knoxville** (current)
+**Senior Scientific Engineering Associate, LBNL Applied Nuclear Physics**
+(Jan 2021-current)
+- Software and hardware development for radiation detector systems that
+combine sophisticated radiation imaging algorithms with 2/3D spatial data
+(RGBD, LiDAR, etc) to produce 3D models with quantitative radiation dose
+information.
+- Application spaces (primarily) include nuclear safeguards/security and
+emergency response.
 
 **Graduate Research Assistant, University of Tennessee, Knoxville**
-(Aug 2014-May 2020)
+(Aug 2014-Nov 2020)
 - Developed an electronic signal generation model using C++ and ANSYS
 Maxwell for semiconductor radiation sensors, then validated the model with
 experimental measurements.
@@ -35,7 +42,8 @@ different designs of the same type of sensor and who were performing
 detailed characterization measurements of the anticipated sensor
 components.
 
-**Intern, Pacific Northwest National Lab, Richland, WA** (May-Aug 2016)
+**Intern, Pacific Northwest National Lab, Richland, WA**
+(May-Aug 2016)
 - Created data acquisition software (C++/Qt) to read, store, and visualize
 data in real time from a prototype radiation counting system used for
 nuclear safeguards and treaty verification.
